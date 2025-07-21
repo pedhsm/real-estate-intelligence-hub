@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import csv
 import pandas as pd
+import re
 
 
 driver = webdriver.Chrome()
