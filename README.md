@@ -7,7 +7,7 @@
 
 ## Recursos Destacados
 - 🕷️ Scraping resiliente com Selenium e BeautifulSoup
-- 📈 Identificação automática de oportunidades de investimento
+- 📈 Identificação automática de oportunidades de investimento (TO DO)
 - 📂 Exportação (CSV - Excel)
 - 🌍 Suporte para apenas um portal imobiliario (ate o momento)
 
@@ -17,6 +17,6 @@ graph TD
     A[Portal Imobiliário] --> B{Navegação Inteligente}
     B --> C[Coleta de Dados]
     C --> D{Processamento}
-    [TO DO]
+    (TO DO)
     D --> E[Análise de Oportunidades]
     E --> F[Relatório Estratégico]
